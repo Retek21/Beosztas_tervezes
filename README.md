@@ -2,7 +2,7 @@
 2021 ősz - Témalabor \
 Budapesti Műszaki és Gazdaságtudományi Egyetem, Villamosmérnöki és Informatikai Kar (VIK)
 
-**Készítette:** Seben Domonkos (*dseben AT edu.bme.hu*), Szeredi Péter (*szeredipeter AT edu.bme.hu*) \
+**Készítette:** Seben Domonkos (*dseben AT edu.bme.hu*, *github:https://github.com/dseben*), Szeredi Péter (*szeredipeter AT edu.bme.hu*) \
 **Konzulens:** Erdős Szilvia
 
 ## A projektről

@@ -1,0 +1,23 @@
+Neurális hálók
+Hopfield
+Boltzmann
+Python
+Andreas keretrendszer? 
+((((andreashoz kepest)Mi keretrendszerünk)))
+ - Git 
+Hopfieldunk mukodese ??
+Bővített
+
+
+
+neuron reprezentacio - komplexitás
+Modell Osztályok
+Energia függvények - Súlymátrix
+
+
+Jövő
+
+Súlyozás
+Heurisztika
+exportálás
+Kiértékelés

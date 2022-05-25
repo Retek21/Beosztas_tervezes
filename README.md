@@ -18,5 +18,4 @@ A projekt az előre kiadott .xlsx fájlokat képes beolvasni, értelmezni. (az e
  - További optimalizációs iterációk lehetnek szükségesek a kiértékelések függvényében. 
 
 ## Elérhetőségek
-A projektről bővebben az általunk készített [diasorból](prezi/temalab_beszamolo.pptx) lehet többet megtudni (ennek végén az általunk használt irodalom is fel van tüntetve.) 
-Kérdések esetén bátran forduljatok hozzánk a feltüntetett e-mail címeken! 
+A projektről bővebben az általunk készített [diasorból](prezi/temalab_beszamolo.pptx) lehet többet megtudni.
